@@ -1,7 +1,5 @@
 #Joblib error fix
-
-# Install joblib
-!pip install joblib
+#open github codespaces
 
 #Heart Disease App
 
