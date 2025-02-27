@@ -1,3 +1,10 @@
+#Joblib error fix
+# Activate virtual environment (example for Windows)
+.venv\Scripts\activate  
+
+# Install joblib
+pip install joblib
+
 #Heart Disease App
 
 import streamlit as st
