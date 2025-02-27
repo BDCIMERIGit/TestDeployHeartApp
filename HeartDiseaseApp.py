@@ -1,7 +1,7 @@
 #Joblib error fix
 
 # Install joblib
-pip install joblib
+!pip install joblib
 
 #Heart Disease App
 
