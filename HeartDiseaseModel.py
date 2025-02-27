@@ -13,7 +13,7 @@ import joblib
 import requests
 
 # Load the dataset from GitHub
-url = 'https://raw.githubusercontent.com/your-username/your-repo/main/heart.csv'  # Update this with the actual URL
+url = 'https://raw.githubusercontent.com/BDCIMERIGit/TestDeployHeartApp/main/heart.csv'  # Update this with the actual URL
 response = requests.get(url)
 with open('heart.csv', 'wb') as f:
     f.write(response.content)
